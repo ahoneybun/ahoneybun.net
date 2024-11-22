@@ -1,5 +1,5 @@
 +++
-title = Welcome to my blog!
+title = welcome to my blog!
 date = 2021-08-29
 +++
 
