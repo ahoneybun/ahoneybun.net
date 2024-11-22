@@ -153,5 +153,5 @@ share = true
 # [optional] other misc urls that should be shown in the post footers
 # both `name` and `url` should be defined for visibility
  misc = [
-   { name = "pixelfed", url = "https://pixelfed.social/i/web/profile/258996401164390400" }
+   { name = "homelab status", url = "https://status.ahoneybun.net" }
  ]
