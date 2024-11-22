@@ -1,7 +1,0 @@
-[[project]]
-    name = "My Homelab"
-    desc = "Homelab Status page"
-    tags = [ "nixos", "homelab" ]
-    links = [
-       { name = "Status", url = "https://status.ahoneybun.net" }
-    ]

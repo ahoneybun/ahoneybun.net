@@ -1,7 +1,0 @@
-[[device]]
-    name = "Shepard"
-    desc = "Main Workstation at Home"
-    tags = [ "shepard", "workstation", "desktop" ]
-    links = [
-       { name = "Status", url = "https://status.ahoneybun.net" }
-    ]

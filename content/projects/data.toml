@@ -1,7 +1,23 @@
 [[project]]
-    name = "My Homelab"
-    desc = "Homelab Status page"
-    tags = [ "nixos", "homelab" ]
+    name = "Arch-itect"
+    desc = "a fast installer for my personal Arch setup."
+    tags = [ "archlinux", "installer" ]
     links = [
-       { name = "Status", url = "https://status.ahoneybun.net" }
+       { name = "Gitlab", url = "https://gitlab.com/ahoneybun/arch-itect" }
+    ]
+
+[[project]]
+    name = "Nyxi Installer"
+    desc = "a fast installer for my personal NixOS setup."
+    tags = [ "nixos", "installer" ]
+    links = [
+        { name = "Gitlab", url = "https://gitlab.com/ahoneybun/nyxi-installer" }
+    ]
+
+[[project]]
+    name = "My nix files for NixOS"
+    desc = "including hosts like servers and homelab"
+    tags = [ "nixos" ]
+    links = [
+        { name = "Gitlab", url = "https://gitlab.com/ahoneybun/nix-configs" }
     ]
