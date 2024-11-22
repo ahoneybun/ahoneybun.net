@@ -86,7 +86,8 @@ keywords = [ "microblog", "linux", "tech support" ]
 # `name` and `url` should be present for visibility, `rel` is optional
 navbar = [
   { name = "mastodon", url = "https://hachyderm.io/@ahoneybun", rel="me" },
-  { name = "github", url = "https://github.com/ahoneybun", rel="me" }
+  { name = "github", url = "https://github.com/ahoneybun", rel="me" },
+  { name = "linkedin", url = "https://www.linkedin.com/in/athoneycutt/", rel="me" }
 ]
 
 # https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color
@@ -151,6 +152,6 @@ share = true
 
 # [optional] other misc urls that should be shown in the post footers
 # both `name` and `url` should be defined for visibility
-# misc = [
-#   { name = "misc", url = "https://misc.xyz" }
-# ]
+ misc = [
+   { name = "pixelfed", url = "https://pixelfed.social/i/web/profile/258996401164390400" }
+ ]
