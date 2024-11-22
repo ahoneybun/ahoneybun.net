@@ -71,7 +71,7 @@ author = "Aaron Honeycutt"
 username = "ahoneybun"
 
 # [optional] your 128x128 avatar, preferably svg
-#avatar = "images/placeholder.png"
+avatar = "images/placeholder.png"
 
 # [optional] the keywords which highlight the type of content on your microblog
 keywords = [ "microblog", "linux", "tech support" ]
@@ -146,8 +146,8 @@ share = true
 # [optional] show a link which redirects to github discussions for writing comments
 # in the example provided below, the URL will be
 # https://github.com/ayushnix/kangae/discussions/new?category=general&title=The+Post+Title
-discuss_github = true
-github_url = "https://github.com/ayushnix/kangae"
+#discuss_github = true
+#github_url = "https://github.com/ayushnix/kangae"
 
 # [optional] other misc urls that should be shown in the post footers
 # both `name` and `url` should be defined for visibility
