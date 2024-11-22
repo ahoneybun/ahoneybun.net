@@ -1,0 +1,3 @@
+[submodule "themes/kangae"]
+	path = themes/kangae
+	url = https://github.com/ayushnix/kangae.git
