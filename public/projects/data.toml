@@ -1,8 +1,7 @@
 [[project]]
-    name = "NixOS configs that run my life!"
-    desc = "my own nix configs"
-    tags = ["nix", "nixos" ]
+    name = "My Homelab"
+    desc = "Homelab Status page"
+    tags = [ "nixos", "homelab" ]
     links = [
-        { name = "Gitlab", url = "https://gitlab.com/ahoneybun/nix-configs/" }
+       { name = "Status", url = "https://status.ahoneybun.net" }
     ]
-

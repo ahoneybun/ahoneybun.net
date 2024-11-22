@@ -57,15 +57,16 @@ recent_more_text = "more »"
 sections = [
     { name = "posts", path = "/posts", is_external = false },
     { name = "projects", path = "/projects", is_external = false },
+    # { name = "devices", path = "/devices", is_external = false },
     # { name = "about", path = "/about", is_external = false },
     # { name = "github", path = "https://github.com/<your-username>", is_external = true },
 ]
 blog_section_path = "/posts"
 
 links = [
-    { name = "GitHub", icon = "github", url = "https://github.com/<your-username>" },
-    { name = "Twitter", icon = "twitter", url = "https://twitter.com/<your-username>" },
-    { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
+    { name = "GitHub", icon = "github", url = "https://github.com/ahoneybun" },
+    { name = "Mastodon", icon = "mastodon", url = "https://hachyderm.io/@ahoneybun" },
+    { name = "Email", icon = "email", url = "mailto:aaronhoneycutt@proton.me>" },
 ]
 
 force_theme = false                   # false | "light" | "dark"
