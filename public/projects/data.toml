@@ -1,0 +1,8 @@
+[[project]]
+    name = "NixOS configs that run my life!"
+    desc = "my own nix configs"
+    tags = ["nix", "nixos" ]
+    links = [
+        { name = "Gitlab", url = "https://gitlab.com/ahoneybun/nix-configs/" }
+    ]
+
