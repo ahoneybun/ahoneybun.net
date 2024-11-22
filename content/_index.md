@@ -1,3 +1,8 @@
 +++
-sort_by = "date"
+template = 'home.html'
+
+[extra]
+lang = 'en'
 +++
+
+Words about you
