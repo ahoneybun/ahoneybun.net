@@ -3,7 +3,7 @@
 # for the complete configuration file
 
 # [MANDATORY] the URL of the microblog
-base_url = "https://kangae.ayushnix.com"
+base_url = "https://ahoneybun.net"
 
 # [recommended] kangae doesn't use sass for its global stylesheet
 compile_sass = false
@@ -71,7 +71,7 @@ author = "Aaron Honeycutt"
 username = "ahoneybun"
 
 # [optional] your 128x128 avatar, preferably svg
-avatar = "images/placeholder.png"
+#avatar = "images/placeholder.png"
 
 # [optional] the keywords which highlight the type of content on your microblog
 keywords = [ "microblog", "linux", "tech support" ]
