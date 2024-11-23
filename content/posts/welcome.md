@@ -4,8 +4,8 @@ date = 2021-08-29
 draft = false
 
 [taxonomies]
-categories = ["welcome"]
-tags = ["blog"]
+categories = [ "welcome" ]
+tags = [ "blog" ]
 +++
 
 ## What will be here
