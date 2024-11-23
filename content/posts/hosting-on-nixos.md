@@ -66,8 +66,6 @@ mastodon-env tootctl accounts approve PUT-YOUR-USERNAME-HERE
 mastodon-env tootctl accounts modify PUT-YOUR-USERNAME-HERE --confirm
 ```
 
-[Mastodon server](https://stoners.space/about)
-
 [Source](https://page.romeov.me/posts/setting-up-mastodon-with-nixos/#adding-your-user)
 
 ### Nextcloud
