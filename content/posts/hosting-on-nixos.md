@@ -20,7 +20,7 @@ Now that I have two servers I needed names for them, I've never been good with h
 
 ### Hydra 
 
-The hardest part of starting for me was understanding DNS and HTTPS setup, this included using Nginx to reverse proxy a locally running service like [Hydra](https://github.com/NixOS/hydra). I was able to get this working with this [configuration](https://gitlab.com/ahoneybun/nix-configs/-/blob/main/dev/hydra-ahoneybun-net.nix) this allows it to be viewed from https://hydra.ahoneybun.net (it is currently off as I was just testing). 
+The hardest part of starting for me was understanding DNS and HTTPS setup, this included using Nginx to reverse proxy a locally running service like [Hydra](https://github.com/NixOS/hydra). I was able to get this working with this [configuration](https://gitlab.com/ahoneybun/nix-configs/-/blob/main/dev/hydra-ahoneybun-net.nix) this allows it to be viewed from the subdomain of hydra on ahoneybun.net (it is currently off as I was just testing). 
 
 When I first tried setting Hydra up I was using the default settings for using a Nginx reverse proxy but it was not loading CSS and JavaScript, after hours of going though GitHub and Reddit I found this option which was the key:
 
@@ -69,10 +69,6 @@ mastodon-env tootctl accounts modify PUT-YOUR-USERNAME-HERE --confirm
 [Mastodon server](https://stoners.space/about)
 
 [Source](https://page.romeov.me/posts/setting-up-mastodon-with-nixos/#adding-your-user)
-
-### Nextcloud
-
-I'm still working on getting this to not use SQLite which is the default and have better security plus other fixes but it is working [here](https://cloud.ahoneybun.net) and here is the [nix file](https://gitlab.com/ahoneybun/nix-configs/-/blob/main/web/cloud-ahoneybun-net.nix).
 
 ## Nix Files
 
