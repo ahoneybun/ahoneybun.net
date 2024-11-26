@@ -8,7 +8,9 @@ categories = [ "pinephone" ]
 tags = [ "mobile-linux", "tips-&-tricks" ]
 +++
 
-> *NOTE:* This was done on a PinePhone 3GB model but the steps should apply to the 2G as well.
+{% note(header="Note") %}
+This was done on a PinePhone 3GB model but the steps should apply to the 2G as well.
+{% end %}
 
 ## Terms
 
@@ -24,7 +26,9 @@ This is the onboard storage used for most Smartphones and Tablets (like the Pine
 
 This is a storage device used to store data and in this case an OS. 
 
-> *NOTE:* eMMC storage will be noticeably faster when compared to a microSD card.
+{% note(header="Note") %}
+eMMC storage will be noticeably faster when compared to a microSD card.
+{% end %}
 
 ### Needed Items
 
