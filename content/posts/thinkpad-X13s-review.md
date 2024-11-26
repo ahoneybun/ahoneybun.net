@@ -73,7 +73,11 @@ Now the RAM is soldered (there are 8GB/16GB/32GB options, I have the 16GB model)
 
 ### GNOME Shell
 
-The animations in GNOME Shell are really smooth and great with the touchpad!
+The animations in GNOME Shell are really smooth and great with the touchpad! See the video below for yourself!
+
+<video width="640" height="360" controls>
+  <source src="/videos/GNOME-Shell-animations.webm" type="video/webm">
+</video>
 
 ### Screen
 
@@ -83,9 +87,9 @@ This is nice and large even on a 13.3" display thanks to the 16:10 resolution of
 
 I was able to connect to two different networks without issues. While Bluetooth was testing with my Pixel Buds-A I did notice some odd "audio glitching" but it would happen randomly and the audio would keep playing during these moments but would sometimes stop for a second or two then continue playing.
 
-[![Bluetooth devices](/images/{{ page.url }}/Bluetooth-devices.png)](/images/{{ page.url }}/Bluetooth-devices.png)
+{{ figure(src="/images/Thinkpad-X13s-review/Bluetooth-devices.png", alt="Bluetooth devices", caption="Settings listing Bluetooth devices") }}
 
-[![Bluetooth sound](/images/{{ page.url }}/Bluetooth-sound.png)](/images/{{ page.url }}/Bluetooth-sound.png)
+{{ figure(src="/images/Thinkpad-X13s-review/Bluetooth-sound.png", alt="Bluetooth sound", caption="Bluetooth Sound Settings") }}
 
 ### USB-C ports
 
@@ -109,15 +113,15 @@ It is a joy to use though it would be nicer if it was a little larger though per
 
 This is a fan-less system so how well the system can keep cool is a good question to ask, while building the [System76 Keyboard Configurator](https://github.com/pop-os/keyboard-configurator) the highest temperature that I saw was about 67C which I think is really good. The system's CPU is near the USB-C ports so the top left if you are looking at the screen and you can feel it getting a little warm there. 
 
-[![Building Rust software](/images/{{ page.url}}/Cooling_compiling-rust-project.png)](/images/{{ page.url}}/Cooling_compiling-rust-project.png)
+{{ figure(src="/images/Thinkpad-X13s-review/Cooling_compiling-rust-project.png", alt="Compiling Rust", caption="Keeping cool while building Rust") }}
 
 ### Video decoding
 
 YouTube works and here are some stats for the nerds:
 
-[![Music Video at 1080@60](/images/{{ page.url}}/YouTube-Encoding-Nerd-Stats.png)](/images/{{ page.url}}/YouTube-Encoding-Nerd-Stats.png)
+{{ figure(src="/images/Thinkpad-X13s-review/YouTube-Encoding-Nerd-Stats.png", alt="YouTube Encoding", caption="YouTube Encoding at 1080p @ 60Hz") }}
 
-[![Test Video at 4K@60](/images/{{ page.url}}/YouTube-Encoding-Nerd-Stats-2.png)](/images/{{ page.url}}/YouTube-Encoding-Nerd-Stats-2.png)
+{{ figure(src="/images/Thinkpad-X13s-review/YouTube-Encoding-Nerd-Stats-2.png", alt="YouTube Encoding", caption="YouTube Encoing at 2160p @ 60Hz") }}
 
 As you can see it reports that videos are able to decode up to 4K@60 without issue, the videos are smooth and audio matches without issue.
 
