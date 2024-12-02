@@ -24,7 +24,7 @@ The hardest part of starting for me was understanding DNS and HTTPS setup, this 
 
 When I first tried setting Hydra up I was using the default settings for using a Nginx reverse proxy but it was not loading CSS and JavaScript, after hours of going though GitHub and Reddit I found this option which was the key:
 
-```nix
+```
 recommendedProxySettings = true;
 ```
 
