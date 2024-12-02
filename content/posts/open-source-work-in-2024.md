@@ -42,6 +42,12 @@ We have had 11 releases of the System76 Keyboard Configurator for the Arch Linux
 
 ![AUR Keyboard Configurator Releases](/images/{{ page.url }}/AUR-keyboard-configurator-releases.png)
 
+## Work in Hydra
+
+My first [PR](https://github.com/NixOS/hydra/pull/1271) to Hydra was merged and it is live! This fixes the hello example and it works!
+
+{{ figure(src="/images/review-2024/hydra-hello-example.png", alt="Hydra building the hello example", caption="Hydra building the hello example") }}
+
 ## COSMIC DE
 
 ### Fixes
