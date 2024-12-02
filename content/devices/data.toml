@@ -1,7 +1,23 @@
 [[device]]
     name = "Shepard"
-    desc = "Main Workstation at Home"
+    desc = "System76 nebula49 custom desktop"
     tags = [ "shepard", "workstation", "desktop" ]
     links = [
-       { name = "Status", url = "https://status.ahoneybun.net" }
+       { name = "Case", url = "https://system76.com/components/nebula49-3/configure" },
+       { name = "Mainboard", url = "https://www.gigabyte.com/Motherboard/X299-AORUS-Gaming-3-rev-10#kf" },
+       { name = "CPU", url = "https://www.intel.com/content/www/us/en/products/sku/198012/intel-core-i910920x-xseries-processor-19-25m-cache-3-50-ghz/specifications.html" }
+    ]
+[[device]]
+    name = "Garrus"
+    desc = "System76 Galago Pro Laptop"
+    tags = [ "garrus", "portable", "laptop" ]
+    links = [
+        { name = "Link", url = "https://system76.com/laptops/galago" }
+    ]
+[[device]]
+    name = "EDI"
+    desc = "Custom deskop running a homelab"
+    tags = [ "homelab", "homelab" ]
+    links = [
+        { name = "Status", url = "https://status.ahoneybun.net" }
     ]
