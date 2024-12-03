@@ -1,6 +1,6 @@
 {% extends "_base.html" %}
 
-{% block page %}devices{% endblock page%}
+{% block page %}projects{% endblock page %}
 {% block lang %}{% if section.extra.lang %}{{ section.extra.lang }}{% else %}{{ section.lang }}{% endif %}{% endblock lang %}
 {% block title %}{{ section.title }}{% endblock title %}
 {% block desc %}
@@ -12,17 +12,17 @@
 <div id="wrapper">
   <main>
     {% set data = load_data(path="content" ~ section.path ~ "data.toml", format="toml") %}
-    {% for devices in data.device %}
+    {% for device in data.device %}
     <div class="proj">
       <div class="meta">
-        <div class="name">{{ devices.name }}</div>
+        <div class="name">{{ device.name }}</div>
         <div class="tags">
-          {% for tag in devices.tags %}
+          {% for tag in device.tags %}
           <div><span>#</span>{{ tag }}</div>
           {% endfor %}
         </div>
         <div class="links">
-          {% for link in devices.links -%}
+          {% for link in device.links -%}
           <a href="{{ link.url }}" target="_blank" rel='noreferrer noopener'>
             <span>[</span>{{ link.name }}<span>]</span>
           </a>
@@ -30,14 +30,14 @@
         </div>
       </div>
       <div class="tags-narrow">
-        {% for tag in devices.tags %}
+        {% for tag in device.tags %}
         <div><span>#</span>{{ tag }}</div>
         {% endfor %}
       </div>
       <div class="content">
-        <div class="desc">{{ devices.desc | trim | markdown | safe }}</div>
-        {% if devices.img %}
-        <img src="{{ devices.img }}" alt="{{ devices.name }}" />
+        <div class="desc">{{ device.desc | trim | markdown | safe }}</div>
+        {% if device.img %}
+        <img src="{{ device.img }}" alt="{{ device.name }}" />
         {% endif %}
       </div>
     </div>

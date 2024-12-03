@@ -1,7 +1,58 @@
 [[device]]
     name = "Shepard"
-    desc = "Main Workstation at Home"
-    tags = [ "shepard", "workstation", "desktop" ]
+    desc = "System76 nebula49 custom desktop"
+    tags = [ "workstation", "desktop" ]
     links = [
-       { name = "Status", url = "https://status.ahoneybun.net" }
+       { name = "Case", url = "https://system76.com/components/nebula49-3/configure" },
+       { name = "Mainboard", url = "https://www.gigabyte.com/Motherboard/X299-AORUS-Gaming-3-rev-10#kf" },
+       { name = "CPU", url = "https://www.intel.com/content/www/us/en/products/sku/198012/intel-core-i910920x-xseries-processor-19-25m-cache-3-50-ghz/specifications.html" }
+    ]
+[[device]]
+    name = "EDI"
+    desc = "Custom deskop running a homelab"
+    tags = [ "homelab", "desktop" ]
+    links = [
+        { name = "Status", url = "https://status.ahoneybun.net" }
+    ]
+[[device]]
+    name = "Garrus"
+    desc = "System76 Galago Pro Laptop"
+    tags = [ "portable", "laptop" ]
+    links = [
+        { name = "link", url = "https://system76.com/laptops/galago" }
+    ]
+[[device]]
+    name = "Drack"
+    desc = "Thinkpad X13s laptop"
+    tags = [ "aarch64", "portable", "laptop" ]
+    links = [
+        { name = "link", url = "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx/thinkpad--x13s-(13-inch-snapdragon)/len101t0019" }
+    ]
+[[device]]
+    name = "Grunt"
+    desc = "Google Slate i5"
+    tags = [ "portable", "tablet" ]
+    links = [
+        { name = "link", url = "https://support.google.com/pixelslate/answer/9131920?hl=en" }
+    ]
+[[device]]
+    name = "Lexi"
+    desc = "OnePlus 6T"
+    tags = [ "portable", "phone" ]
+    links = [
+        { name = "link", url = "https://www.gsmarena.com/oneplus_6t-9350.php" }
+    ]
+[[device]]
+    name = "Nameless"
+    desc = "Librem5"
+    tags = [ "portable", "phone" ]
+    links = [
+        { name = "link", url = "https://shop.puri.sm/shop/librem-5/" }
+    ] 
+[[device]]
+    name = "Nameless"
+    desc = "Steam Deck LCD 512GB"
+    tags = [ "portable", "game console" ]
+    links = [
+        { name = "link", url = "https://www.steamdeck.com/en/tech/deck" }
     ]
