@@ -1,7 +1,7 @@
 [[device]]
     name = "Shepard"
     desc = "System76 nebula49 custom desktop"
-    tags = [ "shepard", "workstation", "desktop" ]
+    tags = [ "workstation", "desktop" ]
     links = [
        { name = "Case", url = "https://system76.com/components/nebula49-3/configure" },
        { name = "Mainboard", url = "https://www.gigabyte.com/Motherboard/X299-AORUS-Gaming-3-rev-10#kf" },
@@ -10,14 +10,28 @@
 [[device]]
     name = "Garrus"
     desc = "System76 Galago Pro Laptop"
-    tags = [ "garrus", "portable", "laptop" ]
+    tags = [ "portable", "laptop" ]
     links = [
-        { name = "Link", url = "https://system76.com/laptops/galago" }
+        { name = "link", url = "https://system76.com/laptops/galago" }
+    ]
+[[device]]
+    name = "Drack"
+    desc = "Thinkpad X13s laptop"
+    tags = [ "aarch64", "portable", "laptop" ]
+    links = [
+        { name = "link", url = "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx/thinkpad--x13s-(13-inch-snapdragon)/len101t0019" }
+    ]
+[[device]]
+    name = "Grunt"
+    desc = "Google Slate i5"
+    tags = [ "portable", "tablet" ]
+    links = [
+        { name = "link", url = "https://support.google.com/pixelslate/answer/9131920?hl=en" }
     ]
 [[device]]
     name = "EDI"
     desc = "Custom deskop running a homelab"
-    tags = [ "homelab", "homelab" ]
+    tags = [ "homelab", "desktop" ]
     links = [
         { name = "Status", url = "https://status.ahoneybun.net" }
     ]
