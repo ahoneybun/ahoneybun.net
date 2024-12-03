@@ -44,7 +44,7 @@
     ]
 [[device]]
     name = "Nameless"
-    desc = "Librem5"
+    desc = "Librem 5"
     tags = [ "portable", "phone" ]
     links = [
         { name = "link", url = "https://shop.puri.sm/shop/librem-5/" }
