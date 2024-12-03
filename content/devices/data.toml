@@ -8,6 +8,13 @@
        { name = "CPU", url = "https://www.intel.com/content/www/us/en/products/sku/198012/intel-core-i910920x-xseries-processor-19-25m-cache-3-50-ghz/specifications.html" }
     ]
 [[device]]
+    name = "EDI"
+    desc = "Custom deskop running a homelab"
+    tags = [ "homelab", "desktop" ]
+    links = [
+        { name = "Status", url = "https://status.ahoneybun.net" }
+    ]
+[[device]]
     name = "Garrus"
     desc = "System76 Galago Pro Laptop"
     tags = [ "portable", "laptop" ]
@@ -29,9 +36,23 @@
         { name = "link", url = "https://support.google.com/pixelslate/answer/9131920?hl=en" }
     ]
 [[device]]
-    name = "EDI"
-    desc = "Custom deskop running a homelab"
-    tags = [ "homelab", "desktop" ]
+    name = "Lexi"
+    desc = "OnePlus 6T"
+    tags = [ "portable", "phone" ]
     links = [
-        { name = "Status", url = "https://status.ahoneybun.net" }
+        { name = "link", url = "https://www.gsmarena.com/oneplus_6t-9350.php" }
+    ]
+[[device]]
+    name = "Nameless"
+    desc = "Librem5"
+    tags = [ "portable", "phone" ]
+    links = [
+        { name = "link", url = "https://shop.puri.sm/shop/librem-5/" }
+    ] 
+[[device]]
+    name = "Nameless"
+    desc = "Steam Deck LCD 512GB"
+    tags = [ "portable", "game console" ]
+    links = [
+        { name = "link", url = "https://www.steamdeck.com/en/tech/deck" }
     ]
