@@ -21,3 +21,11 @@
     links = [
         { name = "Gitlab", url = "https://gitlab.com/ahoneybun/nix-configs" }
     ]
+
+[[project]]
+    name = "Random CAD files"
+    desc = "things that I have made in FreeCAD"
+    tags = [ "cad" ]
+    links = [
+        { name = "Github", url = "https://github.com/ahoneybun/Random-CAD/" }
+    ]
