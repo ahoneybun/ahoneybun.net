@@ -1,7 +1,7 @@
 +++
 title = "Review of my open source work in 2024"
 date = 2024-12-31
-draft = true
+draft = false
 
 [taxonomies]
 categories = [ "year in review" ]
