@@ -47,11 +47,7 @@ The wonderful [khumba](https://github.com/khumba) has been maintaining these and
 
 ## Updated packages in [Arch Linux AUR](https://aur.archlinux.org/cgit/aur.git/log/?h=system76-keyboard-configurator)
 
-![AUR Keyboard Configurator](/images/{{ page.url }}/AUR-keyboard-configurator.png)
-
 We have had 11 releases of the System76 Keyboard Configurator for the Arch Linux AUR package! For those who don't know you can use this on the [System76 Launch](https://system76.com/keyboards/) and Intel [System76 Laptops](https://system76.com/laptops)!
-
-![AUR Keyboard Configurator Releases](/images/{{ page.url }}/AUR-keyboard-configurator-releases.png)
 
 ## Work in Hydra
 
