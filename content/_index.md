@@ -7,7 +7,7 @@ lang = 'en'
 
 ## About Me
 
-I'm a **Happiness Architect** working at [system76](https://system76.com/).
+I'm a **Happiness Architect** working at [system76](https://system76.com/), providing solutions to technical issues (hardware and software) to customers big and small!
 
 ## Writing & Social
 
