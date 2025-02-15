@@ -11,7 +11,7 @@ I'm a **Happiness Architect** working at [system76](https://system76.com/), prov
 
 ## Writing & Social
 
-I **write things** on the internet about tech, OSes and what I'm up to. I usually share these things on **social media**.
+I **write things** on the internet about tech, OSes and what I'm up to. I usually share these things on **social media** such as Mastodon.
 
 ## Talks & Podcasts
 
@@ -21,4 +21,6 @@ I sometimes appear on **talks** & **podcasts** to talk about my work and thought
 
 ## Photography
 
-I take photos from time to time and post them on [Pixelfed](https://pixelfed.social/i/web/profile/258996401164390400).
+I take photos from time to time and post them on [Pixelfed](https://pixelfed.social/i/web/profile/258996401164390400). Pixelfed Collections of my pets:
+
+[Onyxia](https://pixelfed.social/c/336604644853813248) // [Scythe](https://pixelfed.social/c/705840535632911890) // [Azkaban](https://pixelfed.social/c/705840158937738457)
