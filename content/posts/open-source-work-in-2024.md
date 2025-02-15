@@ -65,9 +65,9 @@ I added the feature to use the Player Controls (Next, Pause/Play, Prev) with thi
 
 I reported a few issues in COSMIC and reporting them are as important as fixing them:
 
-[COSMIC Greeter](https://github.com/pop-os/cosmic-greeter/issues/created_by/ahoneybun)
-[COSMIC Edit](https://github.com/pop-os/cosmic-edit/issues/created_by/ahoneybun)
-[COSMIC Files](https://github.com/pop-os/cosmic-files/issues/created_by/ahoneybun)
+- [COSMIC Greeter](https://github.com/pop-os/cosmic-greeter/issues/created_by/ahoneybun)
+- [COSMIC Edit](https://github.com/pop-os/cosmic-edit/issues/created_by/ahoneybun)
+- [COSMIC Files](https://github.com/pop-os/cosmic-files/issues/created_by/ahoneybun)
 
 ## COSMIC Utils Org
 
