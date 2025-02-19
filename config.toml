@@ -68,6 +68,7 @@ links = [
     { name = "Mastodon", icon = "mastodon", url = "https://hachyderm.io/@ahoneybun" },
     { name = "Linkedin", icon = "linkedin", url = "https://www.linkedin.com/in/athoneycutt/" },
     { name = "Email", icon = "email", url = "mailto:aaronhoneycutt@proton.me>" },
+    { name = "RSS", icon = "rss", url = "https://ahoneybun.net/rss.xml" },
 ]
 
 force_theme = false                   # false | "light" | "dark"
