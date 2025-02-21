@@ -5,7 +5,7 @@ draft = false
 
 [taxonomies]
 categories = [ "year in review" ]
-tags = [ "open source", "nixos", "archlinux" ]
+tags = [ "open source", "linux", "nixos", "archlinux", "pop-os" ]
 +++
 
 # NixOS/nix
@@ -45,4 +45,6 @@ I have adopted these packages after the  wonderful [khumba](https://github.com/k
 
 - system76-keyboard-configurator
 
+# Pop!_OS
 
+I have my first [PR](https://github.com/pop-os/linux/pull/344) to the kernel that Pop!_OS uses to add support for a new Bluetooth device (this was changed by the OEM of the controller after the system passed testing and started shipping).
