@@ -1,0 +1,23 @@
+[[project]]
+    name = "Flight Software Developer 1"
+    desc = "Making space things"
+    tags = [ "latest" ]
+    links = [
+        { name = "York Space Systems", url = "https://www.yorkspacesystems.com/" }
+    ]
+
+[[project]]
+    name = "Happiness Architect"
+    desc = "Tier 2 : Supporting humans with Linux"
+    tags = [ "previously" ]
+    links = [
+        { name = "System76", url = "https://system76.com/" }
+    ]
+
+[[project]]
+    name = "Happiness Engineer"
+    desc = "Tier 1 : Supporting humans with Linux"
+    tags = [ "previously" ]
+    links = [
+        { name = "System76", url = "https://system76.com" }
+    ]

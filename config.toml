@@ -57,7 +57,7 @@ recent_more_text = "more »"
 sections = [
     { name = "posts", path = "/posts", is_external = false },
     { name = "projects", path = "/projects", is_external = false },
-    { name = "devices", path = "/devices", is_external = false },
+    { name = "resume", path = "/resume", is_external = false },
     # { name = "about", path = "/about", is_external = false },
     # { name = "github", path = "https://github.com/ahoneybun", is_external = true },
 ]
