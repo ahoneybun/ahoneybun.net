@@ -8,7 +8,7 @@
 
 [[project]]
     name = "Happiness Architect"
-    desc = "Tier 2 : Supporting humans with Linux"
+    desc = "Tier 2 : Supporting humans who support humans with Linux"
     tags = [ "previously" ]
     links = [
         { name = "System76", url = "https://system76.com/" }
