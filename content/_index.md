@@ -7,7 +7,9 @@ lang = 'en'
 
 ## About Me
 
-I'm a **Happiness Architect** working at [system76](https://system76.com/), providing solutions to technical issues (hardware and software) to customers big and small!
+I am **Software Engineer** with working at [York Space Systems](https://yorkspacesystems.com/).
+
+I was an **Happiness Architect** working at [system76](https://system76.com/), providing solutions to technical issues (hardware and software) to customers big and small!
 
 ## Writing & Social
 
