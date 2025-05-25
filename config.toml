@@ -44,7 +44,7 @@ anchors = "on"
 name = "Aaron Honeycutt"
 id = "ahoneybun"
 bio = "a computer nerd who happens to use Linux"
-avatar = "images/avatar.png"
+avatar = "images/twitch-profile-picture.png"
 
 display_id = true
 display_bio = true
