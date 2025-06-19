@@ -1,9 +1,17 @@
 [[project]]
+    name = "Honeyfetch"
+    desc = ""
+    tags = [ "rust", "fetcher" ]
+    link = [
+        { name = "GitLab", url = "https://gitlab.com/ahoneybun/honeyfetch" }
+    ]
+    
+[[project]]
     name = "Nyxi Installer"
     desc = "a fast installer for my personal NixOS setup."
     tags = [ "nixos", "installer" ]
     links = [
-        { name = "Gitlab", url = "https://gitlab.com/ahoneybun/nyxi-installer" }
+        { name = "GitLab", url = "https://gitlab.com/ahoneybun/nyxi-installer" }
     ]
 
 [[project]]
@@ -11,7 +19,7 @@
     desc = "including hosts like servers and homelab"
     tags = [ "nixos", "nixos-configs" ]
     links = [
-        { name = "Gitlab", url = "https://gitlab.com/ahoneybun/nix-configs" }
+        { name = "GitLab", url = "https://gitlab.com/ahoneybun/nix-configs" }
     ]
 
 [[project]]
@@ -19,5 +27,5 @@
     desc = "things that I have made in FreeCAD"
     tags = [ "cad" ]
     links = [
-        { name = "Github", url = "https://github.com/ahoneybun/Random-CAD/" }
+        { name = "GitHub", url = "https://github.com/ahoneybun/Random-CAD/" }
     ]
